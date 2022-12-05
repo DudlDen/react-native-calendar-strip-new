@@ -1,21 +1,14 @@
 {
-  "name": "react-native-calendar-strip",
+  "name": "react-native-calendar-strip-new",
   "description": "Easy to use and visually stunning calendar component for React Native",
-  "author": "Bogdan Begovic <bogdanbegovic@gmail.com>",
+  "author": "",
   "contributors": [
-    "Christopher Burns (https://github.com/Burnsy)",
-    "Florian Biebel (https://github.com/1ne8ight7even)",
-    "Peace Chen (https://github.com/peacechen)",
-    "Sam Colby (https://github.com/samcolby)",
-    "Vitaliy Zhukov (https://github.com/Vitall)",
-    "Dimka Vasilyev (https://github.com/gHashTag)",
-    "Quinton Chester (https://github.com/QuintonC)"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/BugiDev/react-native-calendar-strip#readme",
+  "homepage": "https://github.com/DudlDen/react-native-calendar-strip-new#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BugiDev/react-native-calendar-strip.git"
+    "url": "git+https://github.com/DudlDen/react-native-calendar-strip-new.git"
   },
   "bugs": {
     "url": "https://github.com/BugiDev/react-native-calendar-strip/issues"
