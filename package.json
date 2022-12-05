@@ -1,9 +1,9 @@
 {
-  "name": "react-native-calendar-strip-new",
+  "name": "@DudlDen/react-native-calendar-strip-new",
   "description": "Easy to use and visually stunning calendar component for React Native",
   "author": "",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/react-native-calendar-strip-new"
+    "registry": "https://npm.pkg.github.com/DudlDen"
   },
   "contributors": [
   ],
